@@ -23,3 +23,7 @@ In this application you'll see custom tab bar items animating on user interactio
 - As user clicks on any tab bar item, the item animates.
 - For the animation purpose, cocoapod is used.
 - App is functional, free and ready to use.
+
+## Application Recording
+
+[![Custom-Tab-Bar-Items.gif](https://i.postimg.cc/kXp6LtVH/Custom-Tab-Bar-Items.gif)](https://postimg.cc/0b7ywj0G)
