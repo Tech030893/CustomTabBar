@@ -3,7 +3,7 @@
 In this application you'll see custom tab bar items animating on user interaction. App is created programmatically without any use of storyboard.
 
 ## Programming language used
-- Swift
+- Swift 5
 
 ## Deployment Info
 - iOS 14.5
